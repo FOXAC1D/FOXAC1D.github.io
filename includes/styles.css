@@ -15,13 +15,6 @@ body {
 	
 }
 
-pre {
-   /* background: linear-gradient(to right, red,orange,yellow,green,lightblue,indigo,violet); */
-   background: linear-gradient(to right, red,yellow,green,lightblue,indigo,violet);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 a:link 	  	{ color:#EEEEEE; text-decoration: underline;} /* unvisited link */
 a:visited 	{ color:#DDDDDD; text-decoration: underline;} /* visited link */
 a:hover 	{ color:#FFFFFF; text-decoration: underline; } /* mouse over link */
